@@ -22,6 +22,5 @@ I frequently used Magisk Modules in my equulues(MI8 Pro)
 
 ## 反馈
 
-- [GitHub](https://github.com/LittleControl)
-- [Website](http://www.littlecontrol.cn/)
-- [Email](littlecontrol2019@gmail.com)
+- [GitHub](https://github.com/LittleControl/MyEquuleusModules/issues)
+- litlecontrol2019@gmail.com
