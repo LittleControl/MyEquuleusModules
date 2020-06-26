@@ -1,6 +1,6 @@
 id=MyEquuleusModules
 name=My Equuleus Modules
-version=1.2
+version=v1.2
 versionCode=3
 author=LittleControl@GitHub
-description=添加步数管理App,修改系统相关音效为ONE UI音效,修改系统字体为Roboto和锤子冬青黑,修改系统表情为推特表情,修改相机水印为小控酱的equuleus,修改开机动画为FindX
+description=添加步数管理App,修改系统相关音效为ONE UI音效,修改系统字体为Google Sans font和锤子冬青黑,修改系统表情为推特表情,修改相机水印为小控酱的equuleus,修改开机动画为FindX
